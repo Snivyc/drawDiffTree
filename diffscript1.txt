@@ -1,0 +1,855 @@
+Match SimpleType: AttributeSet(85) to SimpleType: AttributeSet(282)
+Match MethodInvocation(204) to MethodInvocation(471)
+Match SimpleType: Context(59) to SimpleType: Context(271)
+Match Block(161) to Block(228)
+Match Modifier: private(63) to Modifier: public(62)
+Match SimpleName: spannableText(335) to SimpleName: spannableText(582)
+Match ExpressionStatement(308) to ExpressionStatement(555)
+Match StringLiteral: "AboutHomePromoBox"(38) to StringLiteral: "GeckoAboutHomePromoBox"(56)
+Match VariableDeclarationFragment(76) to VariableDeclarationFragment(75)
+Match PrimitiveType: int(294) to PrimitiveType: int(541)
+Match SimpleName: mImageResource(245) to SimpleName: mType(463)
+Match ExpressionStatement(177) to ExpressionStatement(304)
+Match SimpleName: setVisibility(206) to SimpleName: setVisibility(473)
+Match NumberLiteral: 0(303) to NumberLiteral: 0(550)
+Match Modifier: final(113) to Modifier: final(201)
+Match QualifiedName: android.util.Log(14) to QualifiedName: android.util.Log(28)
+Match ExpressionStatement(139) to ExpressionStatement(227)
+Match VariableDeclarationFragment(120) to VariableDeclarationFragment(208)
+Match SimpleName: View(106) to SimpleName: View(197)
+Match MethodInvocation(97) to MethodInvocation(294)
+Match SimpleName: mContext(285) to SimpleName: mContext(520)
+Match SimpleType: StyleSpan(322) to SimpleType: StyleSpan(569)
+Match Modifier: final(34) to Modifier: final(52)
+Match SimpleName: v(108) to SimpleName: v(199)
+Match SimpleName: mType(174) to SimpleName: mTypes(296)
+Match ImportDeclaration(17) to ImportDeclaration(31)
+Match SimpleName: boldName(327) to SimpleName: boldText(574)
+Match Modifier: public(212) to Modifier: public(485)
+Match MethodInvocation(262) to MethodInvocation(509)
+Match SimpleName: Context(114) to SimpleName: Context(202)
+Match SimpleName: setAppsResources(187) to SimpleName: loadUrl(357)
+Match SimpleName: mContext(273) to SimpleName: mContext(532)
+Match SimpleName: setText(334) to SimpleName: setText(581)
+Match SimpleName: styleIndex(295) to SimpleName: styleIndex(542)
+Match PrimitiveType: void(168) to PrimitiveType: void(110)
+Match FieldDeclaration(77) to FieldDeclaration(76)
+Match SimpleName: setSpan(320) to SimpleName: setSpan(567)
+Match MethodInvocation(350) to MethodInvocation(668)
+Match SimpleName: getString(276) to SimpleName: getString(523)
+Match ExpressionStatement(218) to ExpressionStatement(491)
+Match Javadoc(25) to Javadoc(43)
+Match SimpleType: String(271) to SimpleType: String(530)
+Match QualifiedName: View.VISIBLE(207) to QualifiedName: View.VISIBLE(474)
+Match SimpleName: setText(305) to SimpleName: setText(552)
+Match QualifiedName: android.text.style.StyleSpan(10) to QualifiedName: android.text.style.StyleSpan(24)
+Match VariableDeclarationFragment(291) to VariableDeclarationFragment(538)
+Match Block(223) to Block(496)
+Match SimpleName: context(92) to SimpleName: context(289)
+Match SimpleName: AboutHomePromoBox(79) to SimpleName: Type(78)
+Match ImportDeclaration(11) to ImportDeclaration(25)
+Match Assignment: =(221) to Assignment: =(494)
+Match Block(249) to Block(477)
+Match SimpleName: mType(53) to SimpleName: mType(265)
+Match NumberLiteral: 0(260) to NumberLiteral: 0(507)
+Match PrimitiveType: void(355) to PrimitiveType: void(681)
+Match SimpleType: Intent(124) to SimpleType: Intent(212)
+Match SimpleName: updateViewResources(203) to SimpleName: updateViewResources(470)
+Match TagElement(165) to TagElement(422)
+Match MethodInvocation(290) to MethodInvocation(537)
+Match TextElement: promo box of the specified type.(164) to TextElement: promo box of the specified type.(421)
+Match VariableDeclarationFragment(61) to VariableDeclarationFragment(273)
+Match Modifier: private(32) to Modifier: private(50)
+Match SimpleName: Type(51) to SimpleName: Type(263)
+Match MethodDeclaration(265) to MethodDeclaration(512)
+Match QualifiedName: android.widget.TextView(18) to QualifiedName: android.widget.TextView(32)
+Match ExpressionStatement(338) to ExpressionStatement(585)
+Match SimpleName: setResources(227) to SimpleName: onGotTypes(410)
+Match MethodInvocation(188) to MethodInvocation(360)
+Match SimpleName: getInstance(144) to SimpleName: getInstance(355)
+Match Block(339) to Block(586)
+Match SimpleName: mImageResource(75) to SimpleName: image(74)
+Match SimpleName: indexOf(297) to SimpleName: indexOf(544)
+Match IfStatement(340) to IfStatement(587)
+Match ImportDeclaration(13) to ImportDeclaration(27)
+Match QualifiedName: android.text.SpannableString(8) to QualifiedName: android.text.SpannableString(22)
+Match SingleVariableDeclaration(109) to SingleVariableDeclaration(200)
+Match ExpressionStatement(200) to ExpressionStatement(447)
+Match SimpleName: String(270) to SimpleName: String(529)
+Match Block(363) to Block(695)
+Match MethodInvocation(329) to MethodInvocation(576)
+Match ImportDeclaration(9) to ImportDeclaration(23)
+Match SimpleName: Override(101) to SimpleName: Override(192)
+Match SimpleType: Context(81) to SimpleType: Context(278)
+Match SimpleName: getResources(286) to SimpleName: getResources(521)
+Match MethodDeclaration(162) to MethodDeclaration(229)
+Match SimpleType: Intent(127) to SimpleType: Intent(215)
+Match SimpleType: SpannableString(311) to SimpleType: SpannableString(558)
+Match InfixExpression: +(330) to InfixExpression: +(577)
+Match SingleVariableDeclaration(173) to SingleVariableDeclaration(139)
+Match SimpleName: context(128) to SimpleName: context(216)
+Match Modifier: final(281) to Modifier: final(528)
+Match Modifier: final(293) to Modifier: final(540)
+Match QualifiedName: View.GONE(216) to QualifiedName: View.GONE(489)
+Match SimpleType: SpannableString(314) to SimpleType: SpannableString(561)
+Match MethodInvocation(337) to MethodInvocation(584)
+Match VariableDeclarationStatement(280) to VariableDeclarationStatement(527)
+Match SimpleName: startActivity(136) to SimpleName: startActivity(224)
+Match SimpleName: mContext(91) to SimpleName: mContext(288)
+Match SimpleName: StyleSpan(321) to SimpleName: StyleSpan(568)
+Match MethodInvocation(361) to MethodInvocation(693)
+Match SimpleName: boldName(284) to SimpleName: boldText(531)
+Match SimpleName: Log(192) to SimpleName: v(362)
+Match PrimitiveType: void(252) to PrimitiveType: void(499)
+Match SimpleName: LOGTAG(37) to SimpleName: LOGTAG(55)
+Match FieldDeclaration(72) to FieldDeclaration(71)
+Match SimpleName: String(282) to SimpleName: String(517)
+Match SimpleName: Intent(123) to SimpleName: Intent(211)
+Match ExpressionStatement(256) to ExpressionStatement(503)
+Match ExpressionStatement(248) to ExpressionStatement(469)
+Match Block(341) to Block(588)
+Match ExpressionStatement(209) to ExpressionStatement(476)
+Match VariableDeclarationFragment(66) to VariableDeclarationFragment(65)
+Match MethodInvocation(217) to MethodInvocation(490)
+Match SimpleName: Context(58) to SimpleName: Context(270)
+Match Modifier: private(68) to Modifier: public(67)
+Match Modifier: private(73) to Modifier: public(72)
+Match SimpleName: hide(198) to SimpleName: hide(445)
+Match SimpleName: SpannableString(310) to SimpleName: SpannableString(557)
+Match TypeLiteral(131) to TypeLiteral(219)
+Match TextElement: Shows the specified promo box. If a promo box is already active, it will be overidden with a(163) to TextElement: Shows the specified promo box. If a promo box is already active, it will be overidden with a(420)
+Match ExpressionStatement(222) to ExpressionStatement(495)
+Match Assignment: =(176) to Assignment: =(303)
+Match Modifier: public(26) to Modifier: public(44)
+Match SimpleName: styleIndex(325) to SimpleName: styleIndex(572)
+Match QualifiedName: android.graphics.Typeface.BOLD(323) to QualifiedName: android.graphics.Typeface.BOLD(570)
+Match MethodInvocation(255) to MethodInvocation(502)
+Match SimpleName: boldName(298) to SimpleName: boldText(545)
+Match MethodInvocation(332) to MethodInvocation(579)
+Match SuperConstructorInvocation(90) to SuperConstructorInvocation(287)
+Match SimpleType: View.OnClickListener(31) to SimpleType: View.OnClickListener(49)
+Match SimpleName: SetupSyncActivity(129) to SimpleName: SetupSyncActivity(217)
+Match ThisExpression(96) to ThisExpression(293)
+Match MethodDeclaration(100) to MethodDeclaration(101)
+Match Modifier: private(50) to Modifier: private(262)
+Match TextElement: To do this, add a new Type value and update show() to call setResources() for your values -(22) to TextElement: To do this, add a new Type value and update show() to call setResources() for your values -(40)
+Match SimpleName: length(328) to SimpleName: length(575)
+Match Modifier: private(56) to Modifier: private(268)
+Match MethodDeclaration(342) to MethodDeclaration(589)
+Match SimpleName: promoText(272) to SimpleName: text(519)
+Match SimpleName: AboutHomePromoBox(27) to SimpleName: AboutHomePromoBox(45)
+Match SimpleName: styleIndex(302) to SimpleName: styleIndex(549)
+Match MethodInvocation(196) to MethodInvocation(377)
+Match SimpleName: promoText(315) to SimpleName: text(562)
+Match Modifier: final(309) to Modifier: final(556)
+Match PrimitiveType: void(213) to PrimitiveType: void(486)
+Match MethodDeclaration(224) to MethodDeclaration(497)
+Match SimpleName: context(116) to SimpleName: context(204)
+Match SimpleName: promoText(296) to SimpleName: text(543)
+Match SimpleName: intent(137) to SimpleName: intent(225)
+Match QualifiedName: android.view.View(16) to QualifiedName: android.view.View(30)
+Match SimpleName: spannableText(312) to SimpleName: spannableText(559)
+Match QualifiedName: org.mozilla.gecko(0) to QualifiedName: org.mozilla.gecko(0)
+Match SimpleName: String(35) to SimpleName: String(53)
+Match ImportDeclaration(3) to ImportDeclaration(5)
+Match Modifier: public(103) to Modifier: public(194)
+Match VariableDeclarationStatement(301) to VariableDeclarationStatement(548)
+Match Modifier: final(122) to Modifier: final(210)
+Match PrimitiveType: int(69) to PrimitiveType: int(68)
+Match ExpressionStatement(205) to ExpressionStatement(472)
+Match ImportDeclaration(7) to ImportDeclaration(21)
+Match VariableDeclarationStatement(318) to VariableDeclarationStatement(565)
+Match PrimitiveType: void(344) to PrimitiveType: void(591)
+Match Modifier: final(57) to Modifier: final(269)
+Match VariableDeclarationFragment(300) to VariableDeclarationFragment(547)
+Match SimpleName: hide(214) to SimpleName: hide(487)
+Match SimpleName: type(172) to SimpleName: aImage(138)
+Match SimpleName: Intent(126) to SimpleName: Intent(214)
+Match MethodInvocation(199) to MethodInvocation(446)
+Match SimpleName: setResources(357) to SimpleName: types(692)
+Match ClassInstanceCreation(324) to ClassInstanceCreation(571)
+Match SimpleName: setVisibility(215) to SimpleName: setVisibility(488)
+Match SimpleName: mTextResource(65) to SimpleName: text(64)
+Match PackageDeclaration(1) to PackageDeclaration(1)
+Match QualifiedName: android.content.Context(4) to QualifiedName: android.content.Context(18)
+Match TextElement: TextView whose resources may be overidden to display custom values for a new type of promo box.(21) to TextElement: TextView whose resources may be overidden to display custom values for a new type of promo box.(39)
+Match SimpleType: String(36) to SimpleType: String(54)
+Match SimpleName: TextView(28) to SimpleName: TextView(46)
+Match SimpleType: String(283) to SimpleType: String(518)
+Match VariableDeclarationFragment(317) to VariableDeclarationFragment(564)
+Match SimpleName: setResources(346) to SimpleName: availTypes(665)
+Match MethodInvocation(307) to MethodInvocation(554)
+Match SimpleType: Context(115) to SimpleType: Context(203)
+Match SimpleName: Context(80) to SimpleName: Context(277)
+Match SimpleType: Type(52) to SimpleType: Type(264)
+Match SimpleName: v(117) to SimpleName: v(205)
+Match PrimitiveType: void(226) to PrimitiveType: void(409)
+Match QualifiedName: TextView.BufferType.SPANNABLE(336) to QualifiedName: TextView.BufferType.SPANNABLE(583)
+Match SimpleName: intent(125) to SimpleName: intent(213)
+Match Modifier: private(266) to Modifier: private(513)
+Match SimpleName: setCompoundDrawablesWithIntrinsicBounds(257) to SimpleName: setCompoundDrawablesWithIntrinsicBounds(504)
+Match NumberLiteral: 0(259) to NumberLiteral: 0(506)
+Match Modifier: final(269) to Modifier: final(516)
+Match MethodInvocation(275) to MethodInvocation(534)
+Match SimpleName: spannableText(319) to SimpleName: spannableText(566)
+Match SingleVariableDeclaration(87) to SingleVariableDeclaration(284)
+Match SimpleName: promoText(306) to SimpleName: text(553)
+Match TypeDeclaration: class(365) to TypeDeclaration: class(705)
+Match SimpleName: getString(288) to SimpleName: getString(535)
+Match SimpleName: mContext(60) to SimpleName: mContext(272)
+Match Modifier: private(251) to Modifier: private(498)
+Match Modifier: public(167) to Modifier: public(102)
+Match MethodInvocation(145) to MethodInvocation(356)
+Match SimpleName: AttributeSet(84) to SimpleName: AttributeSet(281)
+Match SimpleName: context(135) to SimpleName: context(223)
+Match SimpleName: updateViewResources(253) to SimpleName: updateViewResources(500)
+Match PrimitiveType: int(74) to PrimitiveType: int(73)
+Match Modifier: private(354) to Modifier: public(680)
+Match FieldDeclaration(40) to FieldDeclaration(58)
+Match MethodInvocation(119) to MethodInvocation(207)
+Match Block(210) to Block(385)
+Match MarkerAnnotation(102) to MarkerAnnotation(193)
+Match NumberLiteral: 0(331) to NumberLiteral: 0(578)
+Match TagElement(24) to TagElement(42)
+Match Block(99) to Block(100)
+Match Modifier: private(343) to Modifier: private(590)
+Match MethodInvocation(138) to MethodInvocation(226)
+Match ExpressionStatement(94) to ExpressionStatement(291)
+Match SimpleName: getContext(118) to SimpleName: getContext(206)
+Match ExpressionStatement(362) to ExpressionStatement(694)
+Match SimpleType: TextView(29) to SimpleType: TextView(47)
+Match ExpressionStatement(263) to ExpressionStatement(510)
+Match MethodInvocation(278) to MethodInvocation(525)
+Match VariableDeclarationFragment(39) to VariableDeclarationFragment(57)
+Match Modifier: static(33) to Modifier: static(51)
+Match SimpleName: mType(219) to SimpleName: mType(492)
+Match SimpleName: attrs(86) to SimpleName: attrs(283)
+Match VariableDeclarationStatement(134) to VariableDeclarationStatement(222)
+Match QualifiedName: android.util.AttributeSet(12) to QualifiedName: android.util.AttributeSet(26)
+Match SimpleType: SetupSyncActivity(130) to SimpleType: SetupSyncActivity(218)
+Match SimpleName: updateTextViewResources(254) to SimpleName: updateTextViewResources(501)
+Match MethodInvocation(287) to MethodInvocation(522)
+Match Assignment: =(93) to Assignment: =(290)
+Match SimpleName: context(88) to SimpleName: context(285)
+Match NullLiteral(220) to NullLiteral(493)
+Match ImportDeclaration(19) to ImportDeclaration(33)
+Match FieldDeclaration(67) to FieldDeclaration(66)
+Match SimpleName: onClick(105) to SimpleName: onClick(196)
+Match ImportDeclaration(5) to ImportDeclaration(19)
+Match QualifiedName: View.OnClickListener(30) to QualifiedName: View.OnClickListener(48)
+Match MethodInvocation(299) to MethodInvocation(546)
+Match PrimitiveType: void(267) to PrimitiveType: void(514)
+Match SimpleName: Type(170) to SimpleName: Type(317)
+Match QualifiedName: org.mozilla.gecko.sync.setup.activities.SetupSyncActivity(2) to QualifiedName: org.mozilla.gecko.sync.setup.activities.SetupSyncActivity(4)
+Match Block(264) to Block(511)
+Match SimpleType: View(107) to SimpleType: View(198)
+Match VariableDeclarationStatement(292) to VariableDeclarationStatement(539)
+Match NumberLiteral: 0(261) to NumberLiteral: 0(508)
+Match SimpleName: styleIndex(326) to SimpleName: styleIndex(573)
+Match Assignment: =(247) to Assignment: =(468)
+Match FieldDeclaration(55) to FieldDeclaration(267)
+Match PrimitiveType: void(104) to PrimitiveType: void(195)
+Match QualifiedName: android.content.Intent(6) to QualifiedName: android.content.Intent(20)
+Match SimpleName: SpannableString(313) to SimpleName: SpannableString(560)
+Match Javadoc(166) to Javadoc(423)
+Match ClassInstanceCreation(316) to ClassInstanceCreation(563)
+Match ImportDeclaration(15) to ImportDeclaration(29)
+Match SimpleName: Tabs(143) to SimpleName: Tabs(354)
+Match VariableDeclarationStatement(121) to VariableDeclarationStatement(209)
+Match SingleVariableDeclaration(230) to SingleVariableDeclaration(417)
+Match VariableDeclarationFragment(71) to VariableDeclarationFragment(70)
+Match ExpressionStatement(333) to ExpressionStatement(580)
+Match PrimitiveType: int(64) to PrimitiveType: int(63)
+Match ExpressionStatement(351) to ExpressionStatement(669)
+Match ExpressionStatement(98) to ExpressionStatement(295)
+Match SimpleName: getResources(274) to SimpleName: getResources(533)
+Match SimpleName: attrs(89) to SimpleName: attrs(286)
+Match VariableDeclarationFragment(133) to VariableDeclarationFragment(221)
+Match FieldDeclaration(62) to FieldDeclaration(274)
+Match SimpleName: mBoldTextResource(70) to SimpleName: boldText(69)
+Match SimpleName: setOnClickListener(95) to SimpleName: setOnClickListener(292)
+Match VariableDeclarationFragment(54) to VariableDeclarationFragment(266)
+Match CompilationUnit(366) to CompilationUnit(706)
+Match SimpleName: context(82) to SimpleName: context(279)
+Match MethodInvocation(208) to MethodInvocation(475)
+Match InfixExpression: <(304) to InfixExpression: <(551)
+Match SingleVariableDeclaration(83) to SingleVariableDeclaration(280)
+Match TextElement: A promotional box for the about:home page. The layout contains an ImageView to the left of a(20) to TextElement: A promotional box for the about:home page. The layout contains an ImageView to the left of a(38)
+Match SimpleName: updateTextViewResources(268) to SimpleName: updateTextViewResources(515)
+Match ClassInstanceCreation(132) to ClassInstanceCreation(220)
+Match Modifier: public(78) to Modifier: public(77)
+Match SimpleType: Type(171) to SimpleType: Type(318)
+Match SimpleName: setSyncResources(181) to SimpleName: getContentResolver(332)
+Match VariableDeclarationFragment(279) to VariableDeclarationFragment(526)
+Match TextElement: including a set[Box Type]Resources() helper method is recommended.(23) to TextElement: including a set[Box Type]Resources() helper method is recommended.(41)
+Insert ImportDeclaration(3) into CompilationUnit(706) at 1
+Insert ImportDeclaration(7) into CompilationUnit(706) at 3
+Insert ImportDeclaration(9) into CompilationUnit(706) at 4
+Insert ImportDeclaration(11) into CompilationUnit(706) at 5
+Insert ImportDeclaration(13) into CompilationUnit(706) at 6
+Insert ImportDeclaration(15) into CompilationUnit(706) at 7
+Insert ImportDeclaration(17) into CompilationUnit(706) at 8
+Insert ImportDeclaration(35) into CompilationUnit(706) at 17
+Insert ImportDeclaration(37) into CompilationUnit(706) at 18
+Insert QualifiedName: org.mozilla.gecko.db.BrowserDB(2) into ImportDeclaration(3) at 0
+Insert QualifiedName: org.mozilla.gecko.sync.setup.SyncAccounts(6) into ImportDeclaration(7) at 0
+Insert QualifiedName: org.mozilla.gecko.util.GeckoAsyncTask(8) into ImportDeclaration(9) at 0
+Insert QualifiedName: android.accounts.Account(10) into ImportDeclaration(11) at 0
+Insert QualifiedName: android.accounts.AccountManager(12) into ImportDeclaration(13) at 0
+Insert QualifiedName: android.accounts.OnAccountsUpdateListener(14) into ImportDeclaration(15) at 0
+Insert QualifiedName: android.content.ContentResolver(16) into ImportDeclaration(17) at 0
+Insert QualifiedName: java.util.ArrayList(34) into ImportDeclaration(35) at 0
+Insert QualifiedName: java.util.Random(36) into ImportDeclaration(37) at 0
+Insert TypeDeclaration: class(118) into TypeDeclaration: class(705) at 6
+Insert TypeDeclaration: class(252) into TypeDeclaration: class(705) at 7
+Insert FieldDeclaration(261) into TypeDeclaration: class(705) at 8
+Insert MethodDeclaration(386) into TypeDeclaration: class(705) at 11
+Insert MethodDeclaration(406) into TypeDeclaration: class(705) at 12
+Insert TypeDeclaration: interface(419) into TypeDeclaration: class(705) at 13
+Insert MethodDeclaration(484) into TypeDeclaration: class(705) at 14
+Insert MethodDeclaration(704) into TypeDeclaration: class(705) at 18
+Insert Modifier: public(59) into TypeDeclaration: class(118) at 0
+Insert Modifier: static(60) into TypeDeclaration: class(118) at 1
+Insert SimpleName: Type(61) into TypeDeclaration: class(118) at 2
+Move FieldDeclaration(67) into TypeDeclaration: class(118) at 3
+Move FieldDeclaration(72) into TypeDeclaration: class(118) at 4
+Move FieldDeclaration(77) into TypeDeclaration: class(118) at 5
+Move MethodDeclaration(100) into TypeDeclaration: class(118) at 6
+Insert MethodDeclaration(108) into TypeDeclaration: class(118) at 7
+Insert MethodDeclaration(117) into TypeDeclaration: class(118) at 8
+Insert Modifier: private(119) into TypeDeclaration: class(252) at 0
+Insert SimpleName: SyncType(120) into TypeDeclaration: class(252) at 1
+Insert SimpleType: Type(122) into TypeDeclaration: class(252) at 2
+Insert FieldDeclaration(128) into TypeDeclaration: class(252) at 3
+Insert MethodDeclaration(178) into TypeDeclaration: class(252) at 4
+Insert MethodDeclaration(191) into TypeDeclaration: class(252) at 5
+Move MethodDeclaration(162) into TypeDeclaration: class(252) at 6
+Insert MethodDeclaration(251) into TypeDeclaration: class(252) at 7
+Insert Modifier: private(253) into FieldDeclaration(261) at 0
+Insert ParameterizedType: ArrayList<Type>(258) into FieldDeclaration(261) at 1
+Insert VariableDeclarationFragment(260) into FieldDeclaration(261) at 2
+Insert Modifier: public(275) into MethodDeclaration(386) at 0
+Insert SimpleName: AboutHomePromoBox(276) into MethodDeclaration(386) at 1
+Move SingleVariableDeclaration(83) into MethodDeclaration(386) at 2
+Move SingleVariableDeclaration(87) into MethodDeclaration(386) at 3
+Move Block(210) into MethodDeclaration(386) at 4
+Insert MarkerAnnotation(388) into MethodDeclaration(406) at 0
+Insert Modifier: public(389) into MethodDeclaration(406) at 1
+Insert PrimitiveType: void(390) into MethodDeclaration(406) at 2
+Insert SimpleName: onClick(391) into MethodDeclaration(406) at 3
+Insert SingleVariableDeclaration(395) into MethodDeclaration(406) at 4
+Insert Block(405) into MethodDeclaration(406) at 5
+Insert Modifier: private(407) into TypeDeclaration: interface(419) at 0
+Insert SimpleName: GetTypesCallback(408) into TypeDeclaration: interface(419) at 1
+Insert MethodDeclaration(418) into TypeDeclaration: interface(419) at 2
+Move Javadoc(166) into MethodDeclaration(484) at 0
+Insert Modifier: public(424) into MethodDeclaration(484) at 1
+Insert PrimitiveType: void(425) into MethodDeclaration(484) at 2
+Insert SimpleName: showRandomPromo(426) into MethodDeclaration(484) at 3
+Insert Block(483) into MethodDeclaration(484) at 4
+Move Modifier: private(343) into MethodDeclaration(704) at 0
+Move PrimitiveType: void(344) into MethodDeclaration(704) at 1
+Insert SimpleName: getAvailableTypes(592) into MethodDeclaration(704) at 2
+Insert SingleVariableDeclaration(597) into MethodDeclaration(704) at 3
+Insert Block(703) into MethodDeclaration(704) at 4
+Update StringLiteral: "AboutHomePromoBox"(38) to "GeckoAboutHomePromoBox"
+Update Modifier: private(63) to public
+Update Modifier: private(68) to public
+Update Modifier: private(73) to public
+Update SimpleName: AboutHomePromoBox(79) to Type
+Insert SingleVariableDeclaration(81) into MethodDeclaration(101) at 2
+Insert SingleVariableDeclaration(84) into MethodDeclaration(101) at 3
+Insert SingleVariableDeclaration(87) into MethodDeclaration(101) at 4
+Move Modifier: public(167) into MethodDeclaration(108) at 0
+Insert PrimitiveType: boolean(103) into MethodDeclaration(108) at 1
+Insert SimpleName: canShow(104) into MethodDeclaration(108) at 2
+Insert Block(107) into MethodDeclaration(108) at 3
+Insert Modifier: public(109) into MethodDeclaration(117) at 0
+Move PrimitiveType: void(168) into MethodDeclaration(117) at 1
+Insert SimpleName: onClick(111) into MethodDeclaration(117) at 2
+Insert SingleVariableDeclaration(115) into MethodDeclaration(117) at 3
+Insert Block(116) into MethodDeclaration(117) at 4
+Insert SimpleName: Type(121) into SimpleType: Type(122) at 0
+Insert Modifier: private(123) into FieldDeclaration(128) at 0
+Insert SimpleType: OnAccountsUpdateListener(125) into FieldDeclaration(128) at 1
+Insert VariableDeclarationFragment(127) into FieldDeclaration(128) at 2
+Insert Modifier: public(129) into MethodDeclaration(178) at 0
+Insert SimpleName: SyncType(130) into MethodDeclaration(178) at 1
+Insert SingleVariableDeclaration(133) into MethodDeclaration(178) at 2
+Insert SingleVariableDeclaration(136) into MethodDeclaration(178) at 3
+Move SingleVariableDeclaration(173) into MethodDeclaration(178) at 4
+Insert Block(177) into MethodDeclaration(178) at 5
+Insert MarkerAnnotation(180) into MethodDeclaration(191) at 0
+Insert Modifier: public(181) into MethodDeclaration(191) at 1
+Insert PrimitiveType: boolean(182) into MethodDeclaration(191) at 2
+Insert SimpleName: canShow(183) into MethodDeclaration(191) at 3
+Insert Block(190) into MethodDeclaration(191) at 4
+Insert Modifier: public(230) into MethodDeclaration(251) at 0
+Insert PrimitiveType: void(231) into MethodDeclaration(251) at 1
+Insert SimpleName: onDestroy(232) into MethodDeclaration(251) at 2
+Insert Block(250) into MethodDeclaration(251) at 3
+Insert SimpleType: ArrayList(255) into ParameterizedType: ArrayList<Type>(258) at 0
+Insert SimpleType: Type(257) into ParameterizedType: ArrayList<Type>(258) at 1
+Insert SimpleName: mTypes(259) into VariableDeclarationFragment(260) at 0
+Move SuperConstructorInvocation(90) into Block(385) at 0
+Move ExpressionStatement(94) into Block(385) at 1
+Move ExpressionStatement(98) into Block(385) at 2
+Insert ExpressionStatement(314) into Block(385) at 4
+Insert ExpressionStatement(384) into Block(385) at 5
+Insert SimpleName: Override(387) into MarkerAnnotation(388) at 0
+Insert SimpleType: View(393) into SingleVariableDeclaration(395) at 0
+Insert SimpleName: v(394) into SingleVariableDeclaration(395) at 1
+Insert IfStatement(404) into Block(405) at 0
+Move PrimitiveType: void(226) into MethodDeclaration(418) at 0
+Update SimpleName: setResources(227) to onGotTypes
+Move SimpleName: setResources(227) into MethodDeclaration(418) at 1
+Move SingleVariableDeclaration(230) into MethodDeclaration(418) at 2
+Insert ExpressionStatement(482) into Block(483) at 0
+Insert Modifier: final(593) into SingleVariableDeclaration(597) at 0
+Insert SimpleType: GetTypesCallback(595) into SingleVariableDeclaration(597) at 1
+Insert SimpleName: callback(596) into SingleVariableDeclaration(597) at 2
+Insert ExpressionStatement(702) into Block(703) at 0
+Update SimpleName: mTextResource(65) to text
+Update SimpleName: mBoldTextResource(70) to boldText
+Update SimpleName: mImageResource(75) to image
+Insert PrimitiveType: int(79) into SingleVariableDeclaration(81) at 0
+Insert SimpleName: aText(80) into SingleVariableDeclaration(81) at 1
+Insert PrimitiveType: int(82) into SingleVariableDeclaration(84) at 0
+Insert SimpleName: aBoldText(83) into SingleVariableDeclaration(84) at 1
+Insert PrimitiveType: int(85) into SingleVariableDeclaration(87) at 0
+Insert SimpleName: aImage(86) into SingleVariableDeclaration(87) at 1
+Insert ExpressionStatement(91) into Block(100) at 0
+Insert ExpressionStatement(95) into Block(100) at 1
+Insert ExpressionStatement(99) into Block(100) at 2
+Insert ReturnStatement(106) into Block(107) at 0
+Insert SimpleType: View(113) into SingleVariableDeclaration(115) at 0
+Insert SimpleName: v(114) into SingleVariableDeclaration(115) at 1
+Insert SimpleName: OnAccountsUpdateListener(124) into SimpleType: OnAccountsUpdateListener(125) at 0
+Insert SimpleName: mAccountListener(126) into VariableDeclarationFragment(127) at 0
+Insert PrimitiveType: int(131) into SingleVariableDeclaration(133) at 0
+Insert SimpleName: aText(132) into SingleVariableDeclaration(133) at 1
+Insert PrimitiveType: int(134) into SingleVariableDeclaration(136) at 0
+Insert SimpleName: aBoldText(135) into SingleVariableDeclaration(136) at 1
+Insert PrimitiveType: int(137) into SingleVariableDeclaration(139) at 0
+Update SimpleName: type(172) to aImage
+Insert SuperConstructorInvocation(143) into Block(177) at 0
+Insert ExpressionStatement(164) into Block(177) at 1
+Insert ExpressionStatement(176) into Block(177) at 2
+Insert SimpleName: Override(179) into MarkerAnnotation(180) at 0
+Insert ReturnStatement(189) into Block(190) at 0
+Move VariableDeclarationStatement(121) into Block(228) at 0
+Move VariableDeclarationStatement(134) into Block(228) at 1
+Move ExpressionStatement(139) into Block(228) at 2
+Insert IfStatement(249) into Block(250) at 0
+Insert SimpleName: ArrayList(254) into SimpleType: ArrayList(255) at 0
+Insert SimpleName: Type(256) into SimpleType: Type(257) at 0
+Insert MethodInvocation(313) into ExpressionStatement(314) at 0
+Insert MethodInvocation(383) into ExpressionStatement(384) at 0
+Insert SimpleName: View(392) into SimpleType: View(393) at 0
+Insert InfixExpression: !=(398) into IfStatement(404) at 0
+Insert ExpressionStatement(403) into IfStatement(404) at 1
+Insert ParameterizedType: ArrayList<Type>(415) into SingleVariableDeclaration(417) at 0
+Insert SimpleName: types(416) into SingleVariableDeclaration(417) at 1
+Insert MethodInvocation(481) into ExpressionStatement(482) at 0
+Move SimpleType: String(283) into VariableDeclarationStatement(527) at 1
+Move SimpleType: String(271) into VariableDeclarationStatement(539) at 1
+Insert SimpleName: GetTypesCallback(594) into SimpleType: GetTypesCallback(595) at 0
+Insert MethodInvocation(701) into ExpressionStatement(702) at 0
+Insert Assignment: =(90) into ExpressionStatement(91) at 0
+Insert Assignment: =(94) into ExpressionStatement(95) at 0
+Insert Assignment: =(98) into ExpressionStatement(99) at 0
+Insert BooleanLiteral: true(105) into ReturnStatement(106) at 0
+Insert SimpleName: View(112) into SimpleType: View(113) at 0
+Insert SimpleName: aText(140) into SuperConstructorInvocation(143) at 0
+Insert SimpleName: aBoldText(141) into SuperConstructorInvocation(143) at 1
+Insert SimpleName: aImage(142) into SuperConstructorInvocation(143) at 2
+Insert Assignment: =(163) into ExpressionStatement(164) at 0
+Insert MethodInvocation(175) into ExpressionStatement(176) at 0
+Insert PrefixExpression: !(188) into ReturnStatement(189) at 0
+Insert InfixExpression: !=(235) into IfStatement(249) at 0
+Insert Block(248) into IfStatement(249) at 1
+Update SimpleName: mType(174) to mTypes
+Insert ClassInstanceCreation(302) into Assignment: =(303) at 1
+Insert SimpleName: mTypes(305) into MethodInvocation(313) at 0
+Insert SimpleName: add(306) into MethodInvocation(313) at 1
+Insert ClassInstanceCreation(312) into MethodInvocation(313) at 2
+Insert SimpleName: mTypes(315) into MethodInvocation(383) at 0
+Insert SimpleName: add(316) into MethodInvocation(383) at 1
+Insert ClassInstanceCreation(382) into MethodInvocation(383) at 2
+Insert SimpleName: mType(396) into InfixExpression: !=(398) at 0
+Insert NullLiteral(397) into InfixExpression: !=(398) at 1
+Insert MethodInvocation(402) into ExpressionStatement(403) at 0
+Insert SimpleType: ArrayList(412) into ParameterizedType: ArrayList<Type>(415) at 0
+Insert SimpleType: Type(414) into ParameterizedType: ArrayList<Type>(415) at 1
+Insert SimpleName: getAvailableTypes(427) into MethodInvocation(481) at 0
+Insert ClassInstanceCreation(480) into MethodInvocation(481) at 1
+Insert QualifiedName: mType.image(505) into MethodInvocation(509) at 1
+Update SimpleName: promoText(272) to text
+Update SimpleName: boldName(284) to boldText
+Insert ParenthesizedExpression(699) into MethodInvocation(701) at 0
+Insert SimpleName: execute(700) into MethodInvocation(701) at 1
+Insert SimpleName: text(88) into Assignment: =(90) at 0
+Insert SimpleName: aText(89) into Assignment: =(90) at 1
+Insert SimpleName: boldText(92) into Assignment: =(94) at 0
+Insert SimpleName: aBoldText(93) into Assignment: =(94) at 1
+Insert SimpleName: image(96) into Assignment: =(98) at 0
+Insert SimpleName: aImage(97) into Assignment: =(98) at 1
+Insert SimpleName: mAccountListener(144) into Assignment: =(163) at 0
+Insert ClassInstanceCreation(162) into Assignment: =(163) at 1
+Insert MethodInvocation(168) into MethodInvocation(175) at 0
+Insert SimpleName: addOnAccountsUpdatedListener(169) into MethodInvocation(175) at 1
+Insert SimpleName: mAccountListener(170) into MethodInvocation(175) at 2
+Insert MethodInvocation(173) into MethodInvocation(175) at 3
+Insert BooleanLiteral: false(174) into MethodInvocation(175) at 4
+Insert MethodInvocation(187) into PrefixExpression: !(188) at 0
+Insert SimpleName: mAccountListener(233) into InfixExpression: !=(235) at 0
+Insert NullLiteral(234) into InfixExpression: !=(235) at 1
+Insert ExpressionStatement(243) into Block(248) at 0
+Insert ExpressionStatement(247) into Block(248) at 1
+Insert ParameterizedType: ArrayList<Type>(301) into ClassInstanceCreation(302) at 0
+Insert SimpleType: SyncType(308) into ClassInstanceCreation(312) at 0
+Insert QualifiedName: R.string.abouthome_about_sync(309) into ClassInstanceCreation(312) at 1
+Insert QualifiedName: R.string.abouthome_sync_bold_name(310) into ClassInstanceCreation(312) at 2
+Insert QualifiedName: R.drawable.abouthome_promo_logo_sync(311) into ClassInstanceCreation(312) at 3
+Move SimpleType: Type(171) into ClassInstanceCreation(382) at 0
+Insert QualifiedName: R.string.abouthome_about_apps(319) into ClassInstanceCreation(382) at 1
+Insert QualifiedName: R.string.abouthome_apps_bold_name(320) into ClassInstanceCreation(382) at 2
+Insert QualifiedName: R.drawable.abouthome_promo_logo_apps(321) into ClassInstanceCreation(382) at 3
+Insert AnonymousClassDeclaration(381) into ClassInstanceCreation(382) at 4
+Insert SimpleName: mType(399) into MethodInvocation(402) at 0
+Insert SimpleName: onClick(400) into MethodInvocation(402) at 1
+Insert SimpleName: v(401) into MethodInvocation(402) at 2
+Insert SimpleName: ArrayList(411) into SimpleType: ArrayList(412) at 0
+Insert SimpleName: Type(413) into SimpleType: Type(414) at 0
+Insert SimpleType: GetTypesCallback(429) into ClassInstanceCreation(480) at 0
+Insert AnonymousClassDeclaration(479) into ClassInstanceCreation(480) at 1
+Move MethodInvocation(287) into MethodInvocation(525) at 0
+Insert QualifiedName: mType.text(524) into MethodInvocation(525) at 2
+Move MethodInvocation(275) into MethodInvocation(537) at 0
+Insert QualifiedName: mType.boldText(536) into MethodInvocation(537) at 2
+Update SimpleName: promoText(296) to text
+Update SimpleName: boldName(298) to boldText
+Update SimpleName: promoText(306) to text
+Insert ClassInstanceCreation(698) into ParenthesizedExpression(699) at 0
+Insert SimpleType: OnAccountsUpdateListener(146) into ClassInstanceCreation(162) at 0
+Insert AnonymousClassDeclaration(161) into ClassInstanceCreation(162) at 1
+Insert SimpleName: AccountManager(165) into MethodInvocation(168) at 0
+Insert SimpleName: get(166) into MethodInvocation(168) at 1
+Insert SimpleName: mContext(167) into MethodInvocation(168) at 2
+Insert SimpleName: GeckoAppShell(171) into MethodInvocation(173) at 0
+Insert SimpleName: getHandler(172) into MethodInvocation(173) at 1
+Insert SimpleName: SyncAccounts(184) into MethodInvocation(187) at 0
+Insert SimpleName: syncAccountsExist(185) into MethodInvocation(187) at 1
+Insert SimpleName: mContext(186) into MethodInvocation(187) at 2
+Insert MethodInvocation(242) into ExpressionStatement(243) at 0
+Insert Assignment: =(246) into ExpressionStatement(247) at 0
+Insert SimpleType: ArrayList(298) into ParameterizedType: ArrayList<Type>(301) at 0
+Insert SimpleType: Type(300) into ParameterizedType: ArrayList<Type>(301) at 1
+Insert SimpleName: SyncType(307) into SimpleType: SyncType(308) at 0
+Insert MethodDeclaration(344) into AnonymousClassDeclaration(381) at 0
+Insert MethodDeclaration(380) into AnonymousClassDeclaration(381) at 1
+Insert SimpleName: GetTypesCallback(428) into SimpleType: GetTypesCallback(429) at 0
+Insert MethodDeclaration(478) into AnonymousClassDeclaration(479) at 0
+Insert ParameterizedType: GeckoAsyncTask<Void,Void,ArrayList<Type>>(609) into ClassInstanceCreation(698) at 0
+Insert QualifiedName: GeckoApp.mAppContext(610) into ClassInstanceCreation(698) at 1
+Insert MethodInvocation(613) into ClassInstanceCreation(698) at 2
+Insert AnonymousClassDeclaration(697) into ClassInstanceCreation(698) at 3
+Insert SimpleName: OnAccountsUpdateListener(145) into SimpleType: OnAccountsUpdateListener(146) at 0
+Insert MethodDeclaration(160) into AnonymousClassDeclaration(161) at 0
+Insert MethodInvocation(239) into MethodInvocation(242) at 0
+Insert SimpleName: removeOnAccountsUpdatedListener(240) into MethodInvocation(242) at 1
+Insert SimpleName: mAccountListener(241) into MethodInvocation(242) at 2
+Insert SimpleName: mAccountListener(244) into Assignment: =(246) at 0
+Insert NullLiteral(245) into Assignment: =(246) at 1
+Insert SimpleName: ArrayList(297) into SimpleType: ArrayList(298) at 0
+Insert SimpleName: Type(299) into SimpleType: Type(300) at 0
+Insert MarkerAnnotation(323) into MethodDeclaration(344) at 0
+Insert Modifier: public(324) into MethodDeclaration(344) at 1
+Insert PrimitiveType: boolean(325) into MethodDeclaration(344) at 2
+Insert SimpleName: canShow(326) into MethodDeclaration(344) at 3
+Insert Block(343) into MethodDeclaration(344) at 4
+Insert MarkerAnnotation(346) into MethodDeclaration(380) at 0
+Insert Modifier: public(347) into MethodDeclaration(380) at 1
+Insert PrimitiveType: void(348) into MethodDeclaration(380) at 2
+Insert SimpleName: onClick(349) into MethodDeclaration(380) at 3
+Insert SingleVariableDeclaration(353) into MethodDeclaration(380) at 4
+Insert Block(379) into MethodDeclaration(380) at 5
+Insert Modifier: public(430) into MethodDeclaration(478) at 0
+Insert PrimitiveType: void(431) into MethodDeclaration(478) at 1
+Insert SimpleName: onGotTypes(432) into MethodDeclaration(478) at 2
+Insert SingleVariableDeclaration(439) into MethodDeclaration(478) at 3
+Move Block(249) into MethodDeclaration(478) at 4
+Update SimpleName: promoText(315) to text
+Insert SimpleType: GeckoAsyncTask(599) into ParameterizedType: GeckoAsyncTask<Void,Void,ArrayList<Type>>(609) at 0
+Insert SimpleType: Void(601) into ParameterizedType: GeckoAsyncTask<Void,Void,ArrayList<Type>>(609) at 1
+Insert SimpleType: Void(603) into ParameterizedType: GeckoAsyncTask<Void,Void,ArrayList<Type>>(609) at 2
+Insert ParameterizedType: ArrayList<Type>(608) into ParameterizedType: GeckoAsyncTask<Void,Void,ArrayList<Type>>(609) at 3
+Insert SimpleName: GeckoAppShell(611) into MethodInvocation(613) at 0
+Insert SimpleName: getHandler(612) into MethodInvocation(613) at 1
+Insert MethodDeclaration(677) into AnonymousClassDeclaration(697) at 0
+Insert MethodDeclaration(696) into AnonymousClassDeclaration(697) at 1
+Insert Modifier: public(147) into MethodDeclaration(160) at 0
+Insert PrimitiveType: void(148) into MethodDeclaration(160) at 1
+Insert SimpleName: onAccountsUpdated(149) into MethodDeclaration(160) at 2
+Insert SingleVariableDeclaration(155) into MethodDeclaration(160) at 3
+Insert Block(159) into MethodDeclaration(160) at 4
+Insert SimpleName: AccountManager(236) into MethodInvocation(239) at 0
+Insert SimpleName: get(237) into MethodInvocation(239) at 1
+Insert SimpleName: mContext(238) into MethodInvocation(239) at 2
+Insert SimpleName: Override(322) into MarkerAnnotation(323) at 0
+Insert VariableDeclarationStatement(335) into Block(343) at 0
+Insert ReturnStatement(342) into Block(343) at 1
+Insert SimpleName: Override(345) into MarkerAnnotation(346) at 0
+Insert SimpleType: View(351) into SingleVariableDeclaration(353) at 0
+Insert SimpleName: v(352) into SingleVariableDeclaration(353) at 1
+Insert ExpressionStatement(361) into Block(379) at 0
+Insert ExpressionStatement(378) into Block(379) at 1
+Insert ParameterizedType: ArrayList<Type>(437) into SingleVariableDeclaration(439) at 0
+Insert SimpleName: types(438) into SingleVariableDeclaration(439) at 1
+Insert IfStatement(450) into Block(477) at 0
+Insert VariableDeclarationStatement(462) into Block(477) at 1
+Move ExpressionStatement(205) into Block(477) at 5
+Move ExpressionStatement(209) into Block(477) at 6
+Update SimpleName: boldName(327) to boldText
+Insert SimpleName: GeckoAsyncTask(598) into SimpleType: GeckoAsyncTask(599) at 0
+Insert SimpleName: Void(600) into SimpleType: Void(601) at 0
+Insert SimpleName: Void(602) into SimpleType: Void(603) at 0
+Insert SimpleType: ArrayList(605) into ParameterizedType: ArrayList<Type>(608) at 0
+Insert SimpleType: Type(607) into ParameterizedType: ArrayList<Type>(608) at 1
+Insert MarkerAnnotation(615) into MethodDeclaration(677) at 0
+Insert Modifier: public(616) into MethodDeclaration(677) at 1
+Insert ParameterizedType: ArrayList<Type>(621) into MethodDeclaration(677) at 2
+Insert SimpleName: doInBackground(622) into MethodDeclaration(677) at 3
+Insert SingleVariableDeclaration(626) into MethodDeclaration(677) at 4
+Insert Block(676) into MethodDeclaration(677) at 5
+Insert MarkerAnnotation(679) into MethodDeclaration(696) at 0
+Update Modifier: private(354) to public
+Move Modifier: private(354) into MethodDeclaration(696) at 1
+Move PrimitiveType: void(355) into MethodDeclaration(696) at 2
+Insert SimpleName: onPostExecute(682) into MethodDeclaration(696) at 3
+Insert SingleVariableDeclaration(689) into MethodDeclaration(696) at 4
+Move Block(363) into MethodDeclaration(696) at 5
+Insert ArrayType: Account[](153) into SingleVariableDeclaration(155) at 0
+Insert SimpleName: accounts(154) into SingleVariableDeclaration(155) at 1
+Insert ExpressionStatement(158) into Block(159) at 0
+Insert Modifier: final(327) into VariableDeclarationStatement(335) at 0
+Insert SimpleType: ContentResolver(329) into VariableDeclarationStatement(335) at 1
+Insert VariableDeclarationFragment(334) into VariableDeclarationStatement(335) at 2
+Insert PrefixExpression: !(341) into ReturnStatement(342) at 0
+Insert SimpleName: View(350) into SimpleType: View(351) at 0
+Move MethodInvocation(188) into ExpressionStatement(361) at 0
+Move MethodInvocation(196) into ExpressionStatement(378) at 0
+Insert SimpleType: ArrayList(434) into ParameterizedType: ArrayList<Type>(437) at 0
+Insert SimpleType: Type(436) into ParameterizedType: ArrayList<Type>(437) at 1
+Insert InfixExpression: ==(444) into IfStatement(450) at 0
+Insert Block(449) into IfStatement(450) at 1
+Insert PrimitiveType: int(451) into VariableDeclarationStatement(462) at 0
+Insert VariableDeclarationFragment(461) into VariableDeclarationStatement(462) at 1
+Insert SimpleName: ArrayList(604) into SimpleType: ArrayList(605) at 0
+Insert SimpleName: Type(606) into SimpleType: Type(607) at 0
+Insert SimpleName: Override(614) into MarkerAnnotation(615) at 0
+Insert SimpleType: ArrayList(618) into ParameterizedType: ArrayList<Type>(621) at 0
+Insert SimpleType: Type(620) into ParameterizedType: ArrayList<Type>(621) at 1
+Insert SimpleType: Void(624) into SingleVariableDeclaration(626) at 0
+Insert SimpleName: params(625) into SingleVariableDeclaration(626) at 1
+Insert VariableDeclarationStatement(640) into Block(676) at 0
+Insert ForStatement(673) into Block(676) at 1
+Insert ReturnStatement(675) into Block(676) at 2
+Insert SimpleName: Override(678) into MarkerAnnotation(679) at 0
+Insert ParameterizedType: ArrayList<Type>(687) into SingleVariableDeclaration(689) at 0
+Insert SimpleName: types(688) into SingleVariableDeclaration(689) at 1
+Insert SimpleType: Account(151) into ArrayType: Account[](153) at 0
+Insert Dimension(152) into ArrayType: Account[](153) at 1
+Insert MethodInvocation(157) into ExpressionStatement(158) at 0
+Insert SimpleName: ContentResolver(328) into SimpleType: ContentResolver(329) at 0
+Insert SimpleName: resolver(330) into VariableDeclarationFragment(334) at 0
+Insert MethodInvocation(333) into VariableDeclarationFragment(334) at 1
+Insert MethodInvocation(340) into PrefixExpression: !(341) at 0
+Move MethodInvocation(145) into MethodInvocation(360) at 0
+Update SimpleName: setAppsResources(187) to loadUrl
+Insert StringLiteral: "https://marketplace.firefox.com/"(358) into MethodInvocation(360) at 2
+Insert QualifiedName: Tabs.LOADURL_NEW_TAB(359) into MethodInvocation(360) at 3
+Update SimpleName: Log(192) to v
+Insert SimpleName: postDelayed(363) into MethodInvocation(377) at 1
+Insert ClassInstanceCreation(375) into MethodInvocation(377) at 2
+Insert NumberLiteral: 5000(376) into MethodInvocation(377) at 3
+Insert SimpleName: ArrayList(433) into SimpleType: ArrayList(434) at 0
+Insert SimpleName: Type(435) into SimpleType: Type(436) at 0
+Insert MethodInvocation(442) into InfixExpression: ==(444) at 0
+Insert NumberLiteral: 0(443) into InfixExpression: ==(444) at 1
+Move ExpressionStatement(200) into Block(449) at 0
+Insert ReturnStatement(448) into Block(449) at 1
+Insert SimpleName: idx(452) into VariableDeclarationFragment(461) at 0
+Insert MethodInvocation(460) into VariableDeclarationFragment(461) at 1
+Update SimpleName: mImageResource(245) to mType
+Insert MethodInvocation(467) into Assignment: =(468) at 1
+Insert SimpleName: ArrayList(617) into SimpleType: ArrayList(618) at 0
+Insert SimpleName: Type(619) into SimpleType: Type(620) at 0
+Insert SimpleName: Void(623) into SimpleType: Void(624) at 0
+Insert ParameterizedType: ArrayList<Type>(631) into VariableDeclarationStatement(640) at 0
+Insert VariableDeclarationFragment(639) into VariableDeclarationStatement(640) at 1
+Insert VariableDeclarationExpression(645) into ForStatement(673) at 0
+Insert InfixExpression: <(650) into ForStatement(673) at 1
+Insert PostfixExpression: ++(652) into ForStatement(673) at 2
+Insert Block(672) into ForStatement(673) at 3
+Insert SimpleName: availTypes(674) into ReturnStatement(675) at 0
+Insert SimpleType: ArrayList(684) into ParameterizedType: ArrayList<Type>(687) at 0
+Insert SimpleType: Type(686) into ParameterizedType: ArrayList<Type>(687) at 1
+Insert SimpleName: Account(150) into SimpleType: Account(151) at 0
+Insert SimpleName: showRandomPromo(156) into MethodInvocation(157) at 0
+Insert SimpleName: mContext(331) into MethodInvocation(333) at 0
+Update SimpleName: setSyncResources(181) to getContentResolver
+Move SimpleName: setSyncResources(181) into MethodInvocation(333) at 1
+Insert SimpleName: BrowserDB(336) into MethodInvocation(340) at 0
+Insert SimpleName: isVisited(337) into MethodInvocation(340) at 1
+Insert SimpleName: resolver(338) into MethodInvocation(340) at 2
+Insert StringLiteral: "https://marketplace.firefox.com/"(339) into MethodInvocation(340) at 3
+Insert SimpleType: Runnable(365) into ClassInstanceCreation(375) at 0
+Insert AnonymousClassDeclaration(374) into ClassInstanceCreation(375) at 1
+Insert SimpleName: types(440) into MethodInvocation(442) at 0
+Insert SimpleName: size(441) into MethodInvocation(442) at 1
+Insert ClassInstanceCreation(455) into MethodInvocation(460) at 0
+Insert SimpleName: nextInt(456) into MethodInvocation(460) at 1
+Insert MethodInvocation(459) into MethodInvocation(460) at 2
+Insert SimpleName: types(464) into MethodInvocation(467) at 0
+Insert SimpleName: get(465) into MethodInvocation(467) at 1
+Insert SimpleName: idx(466) into MethodInvocation(467) at 2
+Insert SimpleType: ArrayList(628) into ParameterizedType: ArrayList<Type>(631) at 0
+Insert SimpleType: Type(630) into ParameterizedType: ArrayList<Type>(631) at 1
+Insert SimpleName: availTypes(632) into VariableDeclarationFragment(639) at 0
+Insert ClassInstanceCreation(638) into VariableDeclarationFragment(639) at 1
+Insert PrimitiveType: int(641) into VariableDeclarationExpression(645) at 0
+Insert VariableDeclarationFragment(644) into VariableDeclarationExpression(645) at 1
+Insert SimpleName: i(646) into InfixExpression: <(650) at 0
+Insert MethodInvocation(649) into InfixExpression: <(650) at 1
+Insert SimpleName: i(651) into PostfixExpression: ++(652) at 0
+Insert VariableDeclarationStatement(661) into Block(672) at 0
+Insert IfStatement(671) into Block(672) at 1
+Insert SimpleName: ArrayList(683) into SimpleType: ArrayList(684) at 0
+Insert SimpleName: Type(685) into SimpleType: Type(686) at 0
+Insert SimpleName: callback(690) into MethodInvocation(693) at 0
+Insert SimpleName: onGotTypes(691) into MethodInvocation(693) at 1
+Update SimpleName: setResources(357) to types
+Insert SimpleName: Runnable(364) into SimpleType: Runnable(365) at 0
+Insert MethodDeclaration(373) into AnonymousClassDeclaration(374) at 0
+Insert SimpleType: Random(454) into ClassInstanceCreation(455) at 0
+Insert SimpleName: types(457) into MethodInvocation(459) at 0
+Insert SimpleName: size(458) into MethodInvocation(459) at 1
+Insert SimpleName: ArrayList(627) into SimpleType: ArrayList(628) at 0
+Insert SimpleName: Type(629) into SimpleType: Type(630) at 0
+Insert ParameterizedType: ArrayList<Type>(637) into ClassInstanceCreation(638) at 0
+Insert SimpleName: i(642) into VariableDeclarationFragment(644) at 0
+Insert NumberLiteral: 0(643) into VariableDeclarationFragment(644) at 1
+Insert SimpleName: mTypes(647) into MethodInvocation(649) at 0
+Insert SimpleName: size(648) into MethodInvocation(649) at 1
+Insert SimpleType: Type(654) into VariableDeclarationStatement(661) at 0
+Insert VariableDeclarationFragment(660) into VariableDeclarationStatement(661) at 1
+Insert MethodInvocation(664) into IfStatement(671) at 0
+Insert Block(670) into IfStatement(671) at 1
+Insert Modifier: public(366) into MethodDeclaration(373) at 0
+Insert PrimitiveType: void(367) into MethodDeclaration(373) at 1
+Insert SimpleName: run(368) into MethodDeclaration(373) at 2
+Insert Block(372) into MethodDeclaration(373) at 3
+Insert SimpleName: Random(453) into SimpleType: Random(454) at 0
+Insert SimpleType: ArrayList(634) into ParameterizedType: ArrayList<Type>(637) at 0
+Insert SimpleType: Type(636) into ParameterizedType: ArrayList<Type>(637) at 1
+Insert SimpleName: Type(653) into SimpleType: Type(654) at 0
+Insert SimpleName: t(655) into VariableDeclarationFragment(660) at 0
+Insert MethodInvocation(659) into VariableDeclarationFragment(660) at 1
+Insert SimpleName: t(662) into MethodInvocation(664) at 0
+Insert SimpleName: canShow(663) into MethodInvocation(664) at 1
+Move ExpressionStatement(351) into Block(670) at 0
+Insert ExpressionStatement(371) into Block(372) at 0
+Insert SimpleName: ArrayList(633) into SimpleType: ArrayList(634) at 0
+Insert SimpleName: Type(635) into SimpleType: Type(636) at 0
+Insert SimpleName: mTypes(656) into MethodInvocation(659) at 0
+Insert SimpleName: get(657) into MethodInvocation(659) at 1
+Insert SimpleName: i(658) into MethodInvocation(659) at 2
+Insert MethodInvocation(370) into ExpressionStatement(371) at 0
+Update SimpleName: setResources(346) to availTypes
+Insert SimpleName: add(666) into MethodInvocation(668) at 1
+Insert SimpleName: t(667) into MethodInvocation(668) at 2
+Insert SimpleName: showRandomPromo(369) into MethodInvocation(370) at 0
+Delete SimpleName: mType(110)
+Delete SimpleName: SYNC(111)
+Delete SwitchCase(112)
+Delete BreakStatement(140)
+Delete SimpleName: APPS(141)
+Delete SwitchCase(142)
+Delete SimpleName: loadUrl(146)
+Delete StringLiteral: "https://marketplace.mozilla.org"(147)
+Delete QualifiedName: Tabs.LOADURL_NEW_TAB(148)
+Delete MethodInvocation(149)
+Delete ExpressionStatement(150)
+Delete BreakStatement(151)
+Delete SwitchCase(152)
+Delete SimpleName: Log(153)
+Delete SimpleName: e(154)
+Delete SimpleName: LOGTAG(155)
+Delete StringLiteral: "Invalid type was set when promo box was clicked."(156)
+Delete MethodInvocation(157)
+Delete ExpressionStatement(158)
+Delete BreakStatement(159)
+Delete SwitchStatement(160)
+Delete Modifier: public(41)
+Delete SimpleName: Type(42)
+Delete SimpleName: NONE(43)
+Delete EnumConstantDeclaration(44)
+Delete SimpleName: SYNC(45)
+Delete EnumConstantDeclaration(46)
+Delete SimpleName: APPS(47)
+Delete EnumConstantDeclaration(48)
+Delete EnumDeclaration(49)
+Delete SimpleName: type(175)
+Delete SimpleName: e(193)
+Delete SimpleName: LOGTAG(194)
+Delete StringLiteral: "show() - Invalid AboutHomePromoBox.Type specified."(195)
+Delete SimpleName: type(178)
+Delete SimpleName: SYNC(179)
+Delete SwitchCase(180)
+Delete MethodInvocation(182)
+Delete ExpressionStatement(183)
+Delete BreakStatement(184)
+Delete SimpleName: APPS(185)
+Delete SwitchCase(186)
+Delete ExpressionStatement(189)
+Delete BreakStatement(190)
+Delete SwitchCase(191)
+Delete ExpressionStatement(197)
+Delete ReturnStatement(201)
+Delete SwitchStatement(202)
+Delete PrimitiveType: int(228)
+Delete SimpleName: textResource(229)
+Delete SimpleName: mTextResource(237)
+Delete SimpleName: textResource(238)
+Delete Assignment: =(239)
+Delete ExpressionStatement(240)
+Delete SimpleName: mBoldTextResource(241)
+Delete SimpleName: boldTextResource(242)
+Delete Assignment: =(243)
+Delete ExpressionStatement(244)
+Delete SimpleName: imageResource(246)
+Delete SimpleName: show(169)
+Delete MethodDeclaration(211)
+Delete Modifier: private(225)
+Delete PrimitiveType: int(231)
+Delete SimpleName: boldTextResource(232)
+Delete SingleVariableDeclaration(233)
+Delete PrimitiveType: int(234)
+Delete SimpleName: imageResource(235)
+Delete SingleVariableDeclaration(236)
+Delete MethodDeclaration(250)
+Delete SimpleName: mImageResource(258)
+Delete SimpleName: mTextResource(277)
+Delete SimpleName: mBoldTextResource(289)
+Delete QualifiedName: R.string.abouthome_about_sync(347)
+Delete QualifiedName: R.string.abouthome_sync_bold_name(348)
+Delete QualifiedName: R.drawable.abouthome_promo_logo_sync(349)
+Delete QualifiedName: R.string.abouthome_about_apps(358)
+Delete QualifiedName: R.string.abouthome_apps_bold_name(359)
+Delete QualifiedName: R.drawable.abouthome_promo_logo_apps(360)
+Delete SimpleName: setSyncResources(345)
+Delete Block(352)
+Delete MethodDeclaration(353)
+Delete SimpleName: setAppsResources(356)
+Delete MethodDeclaration(364)

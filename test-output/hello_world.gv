@@ -1,0 +1,80 @@
+// The Round Table
+digraph {
+	node [color=black]
+	1 [label="CompilationUnit bID: 18 aID: 25"]
+	node [color=black]
+	2 [label="TypeDeclaration bID: 17 aID: 24"]
+	1 -> 2
+	node [color=black]
+	3 [label="MethodDeclaration bID: 16 aID: 23"]
+	2 -> 3
+	node [color=black]
+	4 [label="Modifier : private bID: 2 aID: 2"]
+	3 -> 4
+	node [color=black]
+	5 [label="SimpleType : String bID: 4 aID: 4"]
+	3 -> 5
+	node [color=black]
+	6 [label="SimpleName : String bID: 3 aID: 3"]
+	5 -> 6
+	node [color=black]
+	7 [label="SimpleName : foo bID: 5 aID: 5"]
+	3 -> 7
+	node [color=black]
+	8 [label="SingleVariableDeclaration bID: 8 aID: 8"]
+	3 -> 8
+	node [color=black]
+	9 [label="PrimitiveType : int bID: 6 aID: 6"]
+	8 -> 9
+	node [color=black]
+	10 [label="SimpleName : i bID: 7 aID: 7"]
+	8 -> 10
+	node [color=black]
+	11 [label="Block bID: 15 aID: 22"]
+	3 -> 11
+	node [color=black]
+	12 [label="IfStatement bID: 14 aID: 21"]
+	11 -> 12
+	node [color=black]
+	13 [label="InfixExpression : == bID: 11 aID: 11"]
+	12 -> 13
+	node [color=black]
+	14 [label="SimpleName : i bID: 9 aID: 9"]
+	13 -> 14
+	node [color=black]
+	15 [label="NumberLiteral : 0 bID: 10 aID: 10"]
+	13 -> 15
+	node [color=blue]
+	16 [label="ReturnStatement aID: 13"]
+	12 -> 16
+	node [color=blue]
+	17 [label="StringLiteral : \"Bar\" aID: 12"]
+	16 -> 17
+	node [color=blue]
+	18 [label="IfStatement aID: 20"]
+	12 -> 18
+	node [color=blue]
+	19 [label="InfixExpression : == aID: 17"]
+	18 -> 19
+	node [color=blue]
+	20 [label="SimpleName : i aID: 14"]
+	19 -> 20
+	node [color=blue]
+	21 [label="PrefixExpression : - aID: 16"]
+	19 -> 21
+	node [color=blue]
+	22 [label="NumberLiteral : 1 aID: 15"]
+	21 -> 22
+	node [color=red]
+	23 [label="ReturnStatement bID: 13 aID: 19"]
+	18 -> 23
+	node [color=red]
+	24 [label="StringLiteral : \"Foo!\" bID: 12 aID: 18"]
+	23 -> 24
+	node [color=yellow]
+	25 [label="ReturnStatement bID: 13 aID: 19"]
+	12 -> 25
+	node [color=yellow]
+	26 [label="StringLiteral : \"Foo!\" bID: 12 aID: 18"]
+	25 -> 26
+}

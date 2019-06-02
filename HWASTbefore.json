@@ -1,0 +1,156 @@
+{
+	"root": {
+		"type": "15",
+		"typeLabel": "CompilationUnit",
+		"pos": "0",
+		"length": "94",
+		"children": [
+			{
+				"type": "55",
+				"typeLabel": "TypeDeclaration",
+				"pos": "0",
+				"length": "93",
+				"children": [
+					{
+						"type": "83",
+						"label": "public",
+						"typeLabel": "Modifier",
+						"pos": "0",
+						"length": "6",
+						"children": []
+					},
+					{
+						"type": "42",
+						"label": "Test",
+						"typeLabel": "SimpleName",
+						"pos": "13",
+						"length": "4",
+						"children": []
+					},
+					{
+						"type": "31",
+						"typeLabel": "MethodDeclaration",
+						"pos": "23",
+						"length": "68",
+						"children": [
+							{
+								"type": "83",
+								"label": "private",
+								"typeLabel": "Modifier",
+								"pos": "23",
+								"length": "7",
+								"children": []
+							},
+							{
+								"type": "43",
+								"label": "String",
+								"typeLabel": "SimpleType",
+								"pos": "31",
+								"length": "6",
+								"children": [
+									{
+										"type": "42",
+										"label": "String",
+										"typeLabel": "SimpleName",
+										"pos": "31",
+										"length": "6",
+										"children": []
+									}
+								]
+							},
+							{
+								"type": "42",
+								"label": "foo",
+								"typeLabel": "SimpleName",
+								"pos": "38",
+								"length": "3",
+								"children": []
+							},
+							{
+								"type": "44",
+								"typeLabel": "SingleVariableDeclaration",
+								"pos": "42",
+								"length": "5",
+								"children": [
+									{
+										"type": "39",
+										"label": "int",
+										"typeLabel": "PrimitiveType",
+										"pos": "42",
+										"length": "3",
+										"children": []
+									},
+									{
+										"type": "42",
+										"label": "i",
+										"typeLabel": "SimpleName",
+										"pos": "46",
+										"length": "1",
+										"children": []
+									}
+								]
+							},
+							{
+								"type": "8",
+								"typeLabel": "Block",
+								"pos": "49",
+								"length": "42",
+								"children": [
+									{
+										"type": "25",
+										"typeLabel": "IfStatement",
+										"pos": "59",
+										"length": "26",
+										"children": [
+											{
+												"type": "27",
+												"label": "==",
+												"typeLabel": "InfixExpression",
+												"pos": "63",
+												"length": "6",
+												"children": [
+													{
+														"type": "42",
+														"label": "i",
+														"typeLabel": "SimpleName",
+														"pos": "63",
+														"length": "1",
+														"children": []
+													},
+													{
+														"type": "34",
+														"label": "0",
+														"typeLabel": "NumberLiteral",
+														"pos": "68",
+														"length": "1",
+														"children": []
+													}
+												]
+											},
+											{
+												"type": "41",
+												"typeLabel": "ReturnStatement",
+												"pos": "71",
+												"length": "14",
+												"children": [
+													{
+														"type": "45",
+														"label": "\"Foo!\"",
+														"typeLabel": "StringLiteral",
+														"pos": "78",
+														"length": "6",
+														"children": []
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

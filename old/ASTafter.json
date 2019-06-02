@@ -1,0 +1,228 @@
+{
+	"root": {
+		"type": "15",
+		"typeLabel": "CompilationUnit",
+		"pos": "0",
+		"length": "109",
+		"children": [
+			{
+				"type": "55",
+				"typeLabel": "TypeDeclaration",
+				"pos": "0",
+				"length": "108",
+				"children": [
+					{
+						"type": "42",
+						"label": "A",
+						"typeLabel": "SimpleName",
+						"pos": "6",
+						"length": "1",
+						"children": []
+					},
+					{
+						"type": "31",
+						"typeLabel": "MethodDeclaration",
+						"pos": "11",
+						"length": "95",
+						"children": [
+							{
+								"type": "83",
+								"label": "public",
+								"typeLabel": "Modifier",
+								"pos": "11",
+								"length": "6",
+								"children": []
+							},
+							{
+								"type": "39",
+								"label": "int",
+								"typeLabel": "PrimitiveType",
+								"pos": "18",
+								"length": "3",
+								"children": []
+							},
+							{
+								"type": "42",
+								"label": "test",
+								"typeLabel": "SimpleName",
+								"pos": "22",
+								"length": "4",
+								"children": []
+							},
+							{
+								"type": "44",
+								"typeLabel": "SingleVariableDeclaration",
+								"pos": "27",
+								"length": "5",
+								"children": [
+									{
+										"type": "39",
+										"label": "int",
+										"typeLabel": "PrimitiveType",
+										"pos": "27",
+										"length": "3",
+										"children": []
+									},
+									{
+										"type": "42",
+										"label": "i",
+										"typeLabel": "SimpleName",
+										"pos": "31",
+										"length": "1",
+										"children": []
+									}
+								]
+							},
+							{
+								"type": "8",
+								"typeLabel": "Block",
+								"pos": "33",
+								"length": "73",
+								"children": [
+									{
+										"type": "60",
+										"typeLabel": "VariableDeclarationStatement",
+										"pos": "37",
+										"length": "10",
+										"children": [
+											{
+												"type": "39",
+												"label": "int",
+												"typeLabel": "PrimitiveType",
+												"pos": "37",
+												"length": "3",
+												"children": []
+											},
+											{
+												"type": "59",
+												"typeLabel": "VariableDeclarationFragment",
+												"pos": "41",
+												"length": "5",
+												"children": [
+													{
+														"type": "42",
+														"label": "a",
+														"typeLabel": "SimpleName",
+														"pos": "41",
+														"length": "1",
+														"children": []
+													},
+													{
+														"type": "34",
+														"label": "1",
+														"typeLabel": "NumberLiteral",
+														"pos": "45",
+														"length": "1",
+														"children": []
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "21",
+										"typeLabel": "ExpressionStatement",
+										"pos": "50",
+										"length": "7",
+										"children": [
+											{
+												"type": "7",
+												"label": "=",
+												"typeLabel": "Assignment",
+												"pos": "50",
+												"length": "6",
+												"children": [
+													{
+														"type": "42",
+														"label": "a",
+														"typeLabel": "SimpleName",
+														"pos": "50",
+														"length": "1",
+														"children": []
+													},
+													{
+														"type": "34",
+														"label": "10",
+														"typeLabel": "NumberLiteral",
+														"pos": "54",
+														"length": "2",
+														"children": []
+													}
+												]
+											}
+										]
+									},
+									{
+										"type": "25",
+										"typeLabel": "IfStatement",
+										"pos": "60",
+										"length": "43",
+										"children": [
+											{
+												"type": "27",
+												"label": "==",
+												"typeLabel": "InfixExpression",
+												"pos": "63",
+												"length": "6",
+												"children": [
+													{
+														"type": "42",
+														"label": "i",
+														"typeLabel": "SimpleName",
+														"pos": "63",
+														"length": "1",
+														"children": []
+													},
+													{
+														"type": "34",
+														"label": "1",
+														"typeLabel": "NumberLiteral",
+														"pos": "68",
+														"length": "1",
+														"children": []
+													}
+												]
+											},
+											{
+												"type": "41",
+												"typeLabel": "ReturnStatement",
+												"pos": "74",
+												"length": "9",
+												"children": [
+													{
+														"type": "34",
+														"label": "0",
+														"typeLabel": "NumberLiteral",
+														"pos": "81",
+														"length": "1",
+														"children": []
+													}
+												]
+											},
+											{
+												"type": "41",
+												"typeLabel": "ReturnStatement",
+												"pos": "94",
+												"length": "9",
+												"children": [
+													{
+														"type": "34",
+														"label": "1",
+														"typeLabel": "NumberLiteral",
+														"pos": "101",
+														"length": "1",
+														"children": []
+													}
+												]
+											}
+										]
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

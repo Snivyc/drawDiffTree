@@ -1,0 +1,98 @@
+// The Round Table
+digraph {
+	node [color=black]
+	1 [label="CompilationUnit bID: 18 aID: 25"]
+	node [color=black]
+	2 [label="TypeDeclaration : class bID: 17 aID: 24"]
+	1 -> 2
+	node [color=black]
+	3 [label="Modifier : public bID: 0 aID: 0"]
+	2 -> 3
+	node [color=black]
+	4 [label="SimpleName : Test bID: 1 aID: 1"]
+	2 -> 4
+	node [color=black]
+	5 [label="MethodDeclaration bID: 16 aID: 23"]
+	2 -> 5
+	node [color=black]
+	6 [label="Modifier : public bID: 2 aID: 2"]
+	5 -> 6
+	node [color=black]
+	7 [label="SimpleType : String bID: 4 aID: 4"]
+	5 -> 7
+	node [color=black]
+	8 [label="SimpleName : String bID: 3 aID: 3"]
+	7 -> 8
+	node [color=black]
+	9 [label="SimpleName : foo bID: 5 aID: 5"]
+	5 -> 9
+	node [color=black]
+	10 [label="SingleVariableDeclaration bID: 8 aID: 8"]
+	5 -> 10
+	node [color=black]
+	11 [label="PrimitiveType : int bID: 6 aID: 6"]
+	10 -> 11
+	node [color=black]
+	12 [label="SimpleName : i bID: 7 aID: 7"]
+	10 -> 12
+	node [color=black]
+	13 [label="Block bID: 15 aID: 22"]
+	5 -> 13
+	node [color=blue]
+	14 [label="IfStatement aID: 21"]
+	13 -> 14
+	node [color=red]
+	15 [label="InfixExpression : == bID: 11 aID: 11"]
+	14 -> 15
+	node [color=red]
+	16 [label="SimpleName : i bID: 9 aID: 9"]
+	15 -> 16
+	node [color=red]
+	17 [label="NumberLiteral : 0 bID: 10 aID: 10"]
+	15 -> 17
+	node [color=blue]
+	18 [label="ReturnStatement aID: 13"]
+	14 -> 18
+	node [color=blue]
+	19 [label="StringLiteral : \"Bar\" aID: 12"]
+	18 -> 19
+	node [color=blue]
+	20 [label="IfStatement aID: 20"]
+	14 -> 20
+	node [color=blue]
+	21 [label="InfixExpression : == aID: 17"]
+	20 -> 21
+	node [color=blue]
+	22 [label="SimpleName : i aID: 14"]
+	21 -> 22
+	node [color=blue]
+	23 [label="PrefixExpression : - aID: 16"]
+	21 -> 23
+	node [color=blue]
+	24 [label="NumberLiteral : 1 aID: 15"]
+	23 -> 24
+	node [color=red]
+	25 [label="ReturnStatement bID: 13 aID: 19"]
+	20 -> 25
+	node [color=red]
+	26 [label="StringLiteral : \"Foo!\" bID: 12 aID: 18"]
+	25 -> 26
+	node [color=lightgrey]
+	27 [label="IfStatement bID: 14"]
+	13 -> 27
+	node [color=yellow]
+	28 [label="InfixExpression : == bID: 11 aID: 11"]
+	27 -> 28
+	node [color=yellow]
+	29 [label="SimpleName : i bID: 9 aID: 9"]
+	28 -> 29
+	node [color=yellow]
+	30 [label="NumberLiteral : 0 bID: 10 aID: 10"]
+	28 -> 30
+	node [color=yellow]
+	31 [label="ReturnStatement bID: 13 aID: 19"]
+	27 -> 31
+	node [color=yellow]
+	32 [label="StringLiteral : \"Foo!\" bID: 12 aID: 18"]
+	31 -> 32
+}

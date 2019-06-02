@@ -1,0 +1,27 @@
+Match SimpleName: i(7) to SimpleName: i(7)
+Match NumberLiteral: 0(10) to NumberLiteral: 0(10)
+Match Modifier: private(2) to Modifier: private(2)
+Match IfStatement(14) to IfStatement(21)
+Match ReturnStatement(13) to ReturnStatement(19)
+Match CompilationUnit(18) to CompilationUnit(25)
+Match StringLiteral: "Foo!"(12) to StringLiteral: "Foo!"(18)
+Match SingleVariableDeclaration(8) to SingleVariableDeclaration(8)
+Match SimpleType: String(4) to SimpleType: String(4)
+Match Modifier: public(0) to Modifier: public(0)
+Match PrimitiveType: int(6) to PrimitiveType: int(6)
+Match SimpleName: foo(5) to SimpleName: foo(5)
+Match SimpleName: Test(1) to SimpleName: Test(1)
+Match SimpleName: i(9) to SimpleName: i(9)
+Match MethodDeclaration(16) to MethodDeclaration(23)
+Match InfixExpression: ==(11) to InfixExpression: ==(11)
+Match SimpleName: String(3) to SimpleName: String(3)
+Match Block(15) to Block(22)
+Match TypeDeclaration(17) to TypeDeclaration(24)
+Insert ReturnStatement(13) into IfStatement(21) at 1
+Insert IfStatement(20) into IfStatement(21) at 2
+Insert StringLiteral: "Bar"(12) into ReturnStatement(13) at 0
+Insert InfixExpression: ==(17) into IfStatement(20) at 0
+Move ReturnStatement(13) into IfStatement(20) at 1
+Insert SimpleName: i(14) into InfixExpression: ==(17) at 0
+Insert PrefixExpression: -(16) into InfixExpression: ==(17) at 1
+Insert NumberLiteral: 1(15) into PrefixExpression: -(16) at 0

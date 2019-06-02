@@ -1,0 +1,80 @@
+// The Round Table
+digraph {
+	node [color=black]
+	1 [label="CompilationUnit bID: 25 aID: None"]
+	node [color=black]
+	2 [label="TypeDeclaration bID: 24 aID: None"]
+	1 -> 2
+	node [color=black]
+	3 [label="Modifier : public bID: 0 aID: None"]
+	2 -> 3
+	node [color=black]
+	4 [label="SimpleName : Test bID: 1 aID: None"]
+	2 -> 4
+	node [color=black]
+	5 [label="MethodDeclaration bID: 23 aID: None"]
+	2 -> 5
+	node [color=black]
+	6 [label="Modifier : private bID: 2 aID: None"]
+	5 -> 6
+	node [color=black]
+	7 [label="SimpleType : String bID: 4 aID: None"]
+	5 -> 7
+	node [color=black]
+	8 [label="SimpleName : String bID: 3 aID: None"]
+	7 -> 8
+	node [color=black]
+	9 [label="SimpleName : foo bID: 5 aID: None"]
+	5 -> 9
+	node [color=black]
+	10 [label="SingleVariableDeclaration bID: 8 aID: None"]
+	5 -> 10
+	node [color=black]
+	11 [label="PrimitiveType : int bID: 6 aID: None"]
+	10 -> 11
+	node [color=black]
+	12 [label="SimpleName : i bID: 7 aID: None"]
+	10 -> 12
+	node [color=black]
+	13 [label="Block bID: 22 aID: None"]
+	5 -> 13
+	node [color=black]
+	14 [label="IfStatement bID: 21 aID: None"]
+	13 -> 14
+	node [color=black]
+	15 [label="InfixExpression : == bID: 11 aID: None"]
+	14 -> 15
+	node [color=black]
+	16 [label="SimpleName : i bID: 9 aID: None"]
+	15 -> 16
+	node [color=black]
+	17 [label="NumberLiteral : 0 bID: 10 aID: None"]
+	15 -> 17
+	node [color=black]
+	18 [label="ReturnStatement bID: 13 aID: None"]
+	14 -> 18
+	node [color=black]
+	19 [label="StringLiteral : \"Bar\" bID: 12 aID: None"]
+	18 -> 19
+	node [color=black]
+	20 [label="IfStatement bID: 20 aID: None"]
+	14 -> 20
+	node [color=black]
+	21 [label="InfixExpression : == bID: 17 aID: None"]
+	20 -> 21
+	node [color=black]
+	22 [label="SimpleName : i bID: 14 aID: None"]
+	21 -> 22
+	node [color=black]
+	23 [label="PrefixExpression : - bID: 16 aID: None"]
+	21 -> 23
+	node [color=black]
+	24 [label="NumberLiteral : 1 bID: 15 aID: None"]
+	23 -> 24
+	node [color=black]
+	25 [label="ReturnStatement bID: 19 aID: None"]
+	20 -> 25
+	node [color=black]
+	26 [label="StringLiteral : \"Foo!\" bID: 18 aID: None"]
+	25 -> 26
+}
