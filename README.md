@@ -7,3 +7,5 @@ python drawTree.py Testa.java Testb.java
 ```
 
 Make sure that [gumtree](https://github.com/GumTreeDiff/gumtree) and [Graphviz](http://www.graphviz.org/) are in your PATH.
+
+![demo](./test-output/hello_world.png)
